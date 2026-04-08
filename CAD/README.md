@@ -1,1 +1,1 @@
-
+This folder contains all the final CAD used for the knee brace including the full assembly. This doesn't include the 30:1 reduction currently. Additionally, credit for the motor model goes to the Cubemars site.
