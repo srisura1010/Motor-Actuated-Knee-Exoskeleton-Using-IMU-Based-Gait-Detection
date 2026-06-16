@@ -14,3 +14,5 @@ Additionally, here are some images of the project in real life:
 ![39573592840172411](https://github.com/user-attachments/assets/d6911cbe-aa35-4e17-9706-7d49d207ac84)
 
 The motor is effectively controlled with great precision using tuned PID control loops to rotate smoothly.
+
+Built by Srivatsav Sura, Navin Karthik, and Srinath Ramakrishnan. Hillcrest High School 2026.
